@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/NFT-Marketplace/static/css/main.f4f08301.chunk.css",
+    "main.js": "/NFT-Marketplace/static/js/main.fe546148.chunk.js",
+    "main.js.map": "/NFT-Marketplace/static/js/main.fe546148.chunk.js.map",
+    "runtime-main.js": "/NFT-Marketplace/static/js/runtime-main.ed354169.js",
+    "runtime-main.js.map": "/NFT-Marketplace/static/js/runtime-main.ed354169.js.map",
+    "static/js/2.9257abac.chunk.js": "/NFT-Marketplace/static/js/2.9257abac.chunk.js",
+    "static/js/2.9257abac.chunk.js.map": "/NFT-Marketplace/static/js/2.9257abac.chunk.js.map",
+    "index.html": "/NFT-Marketplace/index.html",
+    "static/css/main.f4f08301.chunk.css.map": "/NFT-Marketplace/static/css/main.f4f08301.chunk.css.map",
+    "static/js/2.9257abac.chunk.js.LICENSE.txt": "/NFT-Marketplace/static/js/2.9257abac.chunk.js.LICENSE.txt",
+    "static/media/Logo.df720d5f.svg": "/NFT-Marketplace/static/media/Logo.df720d5f.svg",
+    "static/media/Sparse-Ahmed-Mostafa-vetarans-2.27ce75fb.jpg": "/NFT-Marketplace/static/media/Sparse-Ahmed-Mostafa-vetarans-2.27ce75fb.jpg",
+    "static/media/alan-linssen-alanlinssen-kitbashkitrender2.3c69ee1c.jpg": "/NFT-Marketplace/static/media/alan-linssen-alanlinssen-kitbashkitrender2.3c69ee1c.jpg",
+    "static/media/ashline-sketch-brushes-3-2.3136fdbd.jpg": "/NFT-Marketplace/static/media/ashline-sketch-brushes-3-2.3136fdbd.jpg",
+    "static/media/daniel-taylor-black-and-white-2019-2.51d6d6bc.jpg": "/NFT-Marketplace/static/media/daniel-taylor-black-and-white-2019-2.51d6d6bc.jpg",
+    "static/media/ethereum_logo.df931cd3.svg": "/NFT-Marketplace/static/media/ethereum_logo.df931cd3.svg",
+    "static/media/galerie.dea714ce.svg": "/NFT-Marketplace/static/media/galerie.dea714ce.svg",
+    "static/media/luzhan-liu-1-1500.0ca90f06.jpg": "/NFT-Marketplace/static/media/luzhan-liu-1-1500.0ca90f06.jpg",
+    "static/media/phuongvp-maybe-i-m-dreaming-by-pvpgk-deggyli.258b0cdc.jpg": "/NFT-Marketplace/static/media/phuongvp-maybe-i-m-dreaming-by-pvpgk-deggyli.258b0cdc.jpg",
+    "static/media/rentao_-22-10-.0e905a1f.jpg": "/NFT-Marketplace/static/media/rentao_-22-10-.0e905a1f.jpg",
+    "static/media/suresh-pydikondala-lion.ebe7069f.jpg": "/NFT-Marketplace/static/media/suresh-pydikondala-lion.ebe7069f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed354169.js",
+    "static/js/2.9257abac.chunk.js",
+    "static/css/main.f4f08301.chunk.css",
+    "static/js/main.fe546148.chunk.js"
+  ]
+}
